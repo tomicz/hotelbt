@@ -83,6 +83,7 @@ p {
 
 .l-heading {
     font-size: 40px;
+    line-height: 1.2em;
 }
 
 /* PADDING */
@@ -157,7 +158,7 @@ p {
 /* HOME INFO */
 
 #home-info {
-    height: 400px;
+    height: 450px;
 }
 
 #home-info .info-img {
@@ -217,7 +218,7 @@ p {
 /* TESTIMONIALS */
 
 #testimonials {
-    height: 600px;
+    height: 100%;
     background-image: url("/img/test-bg.jpg");
     padding-top: 100px;
 }
